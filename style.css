@@ -97,15 +97,15 @@ li a {
 
 /* for the contact info box */
 .contactForm {
-  max-width: 960px;
   font-size: 17px;
   background-color: white;
   border: 1px solid #dddddd;
   max-width: 960px;
+  padding: 2%;
 }
 
-form {
-  padding: 20px;
+.form-control {
+display: inline-flex
 }
 
 input[type="text"],
