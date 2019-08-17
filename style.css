@@ -154,19 +154,20 @@ input[type="submit"] {
 
 }
 
-.row1 {
+/* .row1 {
   display: flex;
   width: 65%;
 }
 
 .column {
   width: 50%;
-}
+} */
 
-.container1 {
+/* .container1 {
   padding: 10px 0;
 
-}
+} */
+
 .content {
   background-color: white;
   width: 50%;
